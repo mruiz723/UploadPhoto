@@ -1,6 +1,6 @@
 <?php
-$password = $_POST["password"];
-$email = $_POST["email"];
+// $password = $_POST["password"];
+// $email = $_POST["email"];
 $userId = $_POST["userId"];
 
 $target_dir = "wp-content/uploads/2016/02";if(!file_exists($target_dir))
